@@ -1,0 +1,5 @@
+Expense Report
+------------------------
+Food - dfft: Rs.34.00 on Wed Oct 23 00:35:06 IST 2024
+Travel - zdeg: Rs.45.00 on Wed Oct 23 00:35:13 IST 2024
+Other - asg: Rs.23.00 on Wed Oct 23 00:35:20 IST 2024

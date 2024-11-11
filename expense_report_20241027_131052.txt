@@ -1,0 +1,6 @@
+Expense Report
+------------------------
+Food - Burger: Rs.250.00 on Sun Oct 27 13:12:54 IST 2024
+Food - Pizza: Rs.700.00 on Sun Oct 27 13:13:08 IST 2024
+Travel - Vadodra: Rs.600.00 on Sun Oct 27 13:13:37 IST 2024
+Other - Print outs: Rs.355.00 on Sun Oct 27 13:14:00 IST 2024

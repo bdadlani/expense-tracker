@@ -1,0 +1,5 @@
+Expense Report
+------------------------
+Food - adgd: Rs.354.00 on Wed Oct 23 00:29:20 IST 2024
+Travel - hd: Rs.234.00 on Wed Oct 23 00:29:26 IST 2024
+Other - zdbf: Rs.345.00 on Wed Oct 23 00:29:43 IST 2024

@@ -1,0 +1,6 @@
+Expense Report
+------------------------
+Food - sdhgdr: Rs.234.00 on Wed Oct 23 00:35:56 IST 2024
+Travel - adfgf: Rs.567.00 on Wed Oct 23 00:36:04 IST 2024
+Other - sdh: Rs.34.00 on Wed Oct 23 00:36:17 IST 2024
+Food - sdvgf: Rs.23.00 on Wed Oct 23 00:36:24 IST 2024
